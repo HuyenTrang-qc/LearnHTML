@@ -1,0 +1,10 @@
+D:\My Project\MayTinhCamTay\MayTinhCamTay\bin\Debug\MayTinhCamTay.exe.config
+D:\My Project\MayTinhCamTay\MayTinhCamTay\bin\Debug\MayTinhCamTay.exe
+D:\My Project\MayTinhCamTay\MayTinhCamTay\bin\Debug\MayTinhCamTay.pdb
+D:\My Project\MayTinhCamTay\MayTinhCamTay\obj\Debug\MayTinhCamTay.csproj.AssemblyReference.cache
+D:\My Project\MayTinhCamTay\MayTinhCamTay\obj\Debug\MayTinhCamTay.Form1.resources
+D:\My Project\MayTinhCamTay\MayTinhCamTay\obj\Debug\MayTinhCamTay.Properties.Resources.resources
+D:\My Project\MayTinhCamTay\MayTinhCamTay\obj\Debug\MayTinhCamTay.csproj.GenerateResource.cache
+D:\My Project\MayTinhCamTay\MayTinhCamTay\obj\Debug\MayTinhCamTay.csproj.CoreCompileInputs.cache
+D:\My Project\MayTinhCamTay\MayTinhCamTay\obj\Debug\MayTinhCamTay.exe
+D:\My Project\MayTinhCamTay\MayTinhCamTay\obj\Debug\MayTinhCamTay.pdb
